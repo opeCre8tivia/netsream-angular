@@ -6,7 +6,6 @@ in oneday i have been in position to implement things that i have learned like
 1 == Routing
 2 == Reactive forms
 3== Form Validation
-# i hope to soon implement the back 
-end
+i hope to soon implement the back end
 
 
